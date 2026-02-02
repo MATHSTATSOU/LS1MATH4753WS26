@@ -1,0 +1,15 @@
+Package: LS1MATH4753WS26
+Type: Package
+Title: Live Session 1 functions
+Version: 0.1.0
+Authors@R: person(
+    "Wayne", "Stewart",
+    role = c("aut", "cre"),
+    email = "wayne.s.stewart@ou.edu",
+    comment = NULL
+  )
+Description: The first live session and ideas related to functions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
