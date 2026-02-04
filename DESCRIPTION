@@ -13,3 +13,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
+URL: https://github.com/MATHSTATSOU/LS1MATH4753WS26
+BugReports: https://github.com/MATHSTATSOU/LS1MATH4753WS26/issues
